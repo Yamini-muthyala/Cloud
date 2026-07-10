@@ -1,0 +1,16 @@
+1.In our coffee shop example, a barista and customer were used to represent the client-server model. The barista represents the server and a customer represents the client.
+Which scenario BEST describes how the client-server model works in this analogy?
+(A) The customer takes a cup of coffee from a self-serve station without informing the barista. This describes how a client and server do not interact.
+(B) The barista proactively prepares a coffee and brings it to the customer without being asked. This describes how the client does not need to submit a request to the server.
+(C) The customer makes their own coffee using the coffee shop equipment without interacting with the barista. This describes how the client does not require the server.
+(D) The customer goes to the barista and places an order for a coffee. The barista prepares the coffee and hands it back to the customer. This describes how the client places the request, and the server responds.
+Answer :D
+
+2.You work for a local charity organization. Your organization has sensitive data that must remain within your country for compliance reasons. However, you also need a solution that can scale quickly to handle seasonal spikes in demand. You decide to keep on-premises resources for compliance and use cloud-based resources for dynamic scaling.
+Which type of cloud deployment does this situation describe?
+(A) On-premises deployment
+(B) Public cloud deployment
+(C) Hybrid deployment
+(D) Data-compliance deployment
+Answer: C
+
