@@ -21,3 +21,11 @@ Which benefit of the AWS Cloud is most relevant to this situation?
 (C) Trade upfront expense for variable expense.
 (D) Go global in minutes.
 Answer: B
+
+4.You just joined a tech start-up, and the business is growing rapidly. Your new company decides that they need to design a resilient and scalable infrastructure on AWS to handle increased traffic and help ensure high availability.
+Which statement BEST describes the AWS Global Infrastructure benefit of high availability?
+(A) AWS stores all of your website’s data in a single AWS storage bucket to centralize data management.
+(B) AWS has many customer support options to make sure the answers to your questions are highly available on its website.
+(C) AWS provides multiple data centers across different geographic regions so your website can remain operational even if one location faces issues.
+(D) AWS offers a single, highly secure data center that can handle all your traffic, which makes sure that your website is available.
+Answer: C
